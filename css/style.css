@@ -150,24 +150,6 @@ a span:nth-child(4){
 }
 /*________________________________________________________*/
 
-/*_________________________Fő cím___________________________*/
-#focim{
-    margin-top: 2%;
-    margin-left: 37%;
-    margin-right: 37%;
-    padding-top: 2%;
-    padding-bottom: 2%;
-    border-radius: 10px;
-    text-align: center;
-    box-shadow: 0 0 10px 5px #987861;
-    background-color: #e1cdc681;
-}
-
-#h1_elso{
-    border-bottom: rgb(0, 0, 0) 1px solid;
-}
-/*________________________________________________________*/
-
 /*_________________________szöveg egy___________________________*/
 #szoveg1{
     margin-left: 1%;
