@@ -152,6 +152,7 @@ a span:nth-child(4){
 
 /*_________________________szöveg egy___________________________*/
 #szoveg1{
+    margin-top: 5%;
     margin-left: 1%;
     margin-right: 80%;
     padding-top: 1%;
