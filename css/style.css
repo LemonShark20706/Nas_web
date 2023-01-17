@@ -40,7 +40,7 @@ nav{
     width: 80%;
     height: 80%;
     border-radius: 10px;
-    box-shadow: 0 0 10px 5px #e1cdc681;
+    box-shadow: 0 0 10px 5px #987861;
 }
 
 /*________________________________________________________*/
@@ -56,7 +56,7 @@ nav{
     margin-right: 15px;
     padding-left: 10%;
     padding-right: 10%;
-    box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.4);
+    box-shadow: 0 0 10px 5px #987861;
     overflow: hidden !important;
     transition: 2s;
     display: inline-block;
@@ -160,11 +160,11 @@ a span:nth-child(4){
     padding-bottom: 2%;
     border-radius: 200%;
     text-align: center;
-    box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.4);
+    box-shadow: 0 0 10px 5px #987861;
     background-color: rgba(128, 128, 128, 0.2);
 }
 
 #h1_elso{
-    border-bottom: #171618 1px solid;
+    border-bottom: rgb(0, 0, 0) 1px solid;
 }
 /*________________________________________________________*/
